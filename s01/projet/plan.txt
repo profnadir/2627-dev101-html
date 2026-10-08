@@ -1,0 +1,30 @@
+W3C est chargé de promouvoir la compatibilité des technologies du World Wide Web telles que HTML, XML, RDF, CSS,PNG, SVG, …
+Parmi les normes W3C concernant HTML on cite :
+
+• Les balises <html>, <head>, <title>, et <body> sont obligatoires
+
+• Les éléments doivent être correctement imbriqués
+
+• Les éléments doivent toujours être fermés
+
+• Les éléments HTML doivent être en minuscules
+
+• Les documents HTML doivent avoir un élément racine : html
+
+• Les noms d'attributs doivent être en minuscules
+
+• Les valeurs des attributs des balises doivent être indiqués
+
+Validation du code HTML avec W3C Validator : http://validator.w3.org/
+
+
+<!DOCTYPE html> : Type de document : html 5
+
+<html> : racine
+    <head> : infos 
+        <title></title>
+    </head>
+    <body>
+        // contenu h1 : location de voiture
+    </body>
+</html>
